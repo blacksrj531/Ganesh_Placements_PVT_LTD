@@ -1721,7 +1721,7 @@ function App() {
               { name: "Steel & Mines", img: "https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=600&q=80" },
               { name: "HVAC / Heavy Machinery", img: "https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=600" },
               { name: "Infrastructure & EPC", img: "https://images.pexels.com/photos/585418/pexels-photo-585418.jpeg?auto=compress&cs=tinysrgb&w=600" },
-              { name: "Oil, Gas & Power", img: "https://images.unsplash.com/photo-1621504450181-5d356f61d307?auto=format&fit=crop&w=600&q=80" },
+              { name: "Oil, Gas & Power", img: "/oil-gas.jpg" },
               { name: "Solar", img: "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=600&q=80" },
               { name: "Water Treatment", img: "https://images.unsplash.com/photo-1542013936693-884638332954?auto=format&fit=crop&w=600&q=80" },
               { name: "Telecom", img: "https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&w=600" },
@@ -2016,6 +2016,7 @@ function App() {
 }
 
 export default App;
+
 
 
 
