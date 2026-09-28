@@ -1721,14 +1721,14 @@ function App() {
               { name: "Steel & Mines", img: "https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=600&q=80" },
               { name: "HVAC / Heavy Machinery", img: "https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=600" },
               { name: "Infrastructure & EPC", img: "https://images.pexels.com/photos/585418/pexels-photo-585418.jpeg?auto=compress&cs=tinysrgb&w=600" },
-              { name: "Oil, Gas & Power", img: "https://images.pexels.com/photos/3316139/pexels-photo-3316139.jpeg?auto=compress&cs=tinysrgb&w=600" },
+              { name: "Oil, Gas & Power", img: "https://images.unsplash.com/photo-1621504450181-5d356f61d307?auto=format&fit=crop&w=600&q=80" },
               { name: "Solar", img: "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=600&q=80" },
               { name: "Water Treatment", img: "https://images.unsplash.com/photo-1542013936693-884638332954?auto=format&fit=crop&w=600&q=80" },
               { name: "Telecom", img: "https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&w=600" },
               { name: "Electronics & Automation", img: "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=600" },
               { name: "IT (Software/Hardware)", img: "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=600" },
               { name: "Cargo Logistics", img: "https://images.unsplash.com/photo-1580674285054-bed31e145f59?auto=format&fit=crop&w=600&q=80" },
-              { name: "Shipping & Marine", img: "https://images.pexels.com/photos/2215443/pexels-photo-2215443.jpeg?auto=compress&cs=tinysrgb&w=600" },
+              { name: "Shipping & Marine", img: "https://images.unsplash.com/photo-1586528116311-ad8ed7c15663?auto=format&fit=crop&w=600&q=80" },
               { name: "Aerospace & Defence", img: "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&w=600&q=80" },
               { name: "Media & Entertainment", img: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=600&q=80" },
               { name: "Pharma & Healthcare", img: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=600&q=80" }
@@ -2016,6 +2016,7 @@ function App() {
 }
 
 export default App;
+
 
 
 
